@@ -3,3 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.fruitOne {
+  background-color: green;
+}
+
+.fruitTwo {
+  background-color: yellow;
+}
+
+.fruitThree {
+  background-color: red;
+}
